@@ -6,8 +6,7 @@ EMNIST/MNIST (honestly, particularly MNIST) are both well known and popular data
 	* Unsupervised learning techniques for feature reduction and dimensionality reduction to drive standard (non-NN) classification techniques
 2. EMNIST_CNN
 	* Neural Networks and Convolutional Neural Networks for classification
-3. EMNIST Generator Images:
-	* 
+3. EMNIST_Generator_Images:
+	* Load a (admittedly undertrained) generator model trained in a GAN architecture to produce 'handwritten' text 
 
-### Dependencies
 
