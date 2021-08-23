@@ -2,8 +2,10 @@
 
 ### Intro
 - Shpiel about EMNIST
-- Shpiel about approaches
-- Shpiel about files maybe?
+- Classification:
+	- Non-deep learning models
+	- Deep learning models
+- GAN
 
 ### Dependencies
 
